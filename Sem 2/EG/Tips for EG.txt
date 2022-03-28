@@ -1,0 +1,65 @@
+Tips | Engineering Drawing
+
+
+
+Engineering Drawing
+
+
+
+
+
+1. You may or may not need tuitions for this subject. However,
+   tuitions are recommended.
+2. You need to practice drawing a lot. Time is the biggest problem in
+   exams and can be knocked out only by practicing.
+3. You'll get tired of drawing one day before the exams if you're
+   slow. Start practicing as soon as possible.
+4. This subject carries 5 credits. Your pointer will be affected if
+   you don't score.
+5. 'Engineering Drawing by N.H. Dubey' is the best book to buy.
+6. Alternative to that is a book by N.D. Bhatt.
+7. Choose between a roller scale and a drafter. They both do the same
+   job. Select the one you find easy to handle. A small roller scale is
+   better than a big one.
+8. Ensure enough space for your drawing. If it goes out of paper, you
+   have no option but to erase it all and start again.
+9. Your measuring instruments should be clean. Rulers and protractors
+   with fine dust or carbon film (due to keeping them with a bear pencil)
+   would make your paper dirty if you use them.
+10. There are tricks to make your drawing complete faster which
+    you'll find out yourself when you practice.
+11. Only your name and details (in assignments and exams) and nothing
+    else should be written on the drawing sheets.
+12. You'll get lots of assignments to do from college. Better than
+    grumbling about it, take it as a practice question. You'll regret
+    doing them yourself one day before the exam.
+13. The power of imagination plays an important role in Orthographic
+    and Isometric projections. Forget the surrounding and just imagine
+    the object. Hope that helps.
+14. People are scared of this subject. There's nothing to get scared
+    of! Just be at your speed and avoid mistakes. Don't shiver in the
+    exam due to time constraint.
+15. Projection of Points need not be studied for exams, it's not
+    included in the blueprint as you see.
+16. Projection of Straight lines is a very, very easy chapter and one
+    question is sure to come. No one can stop you from scoring in it if
+    you know the master diagram in it. See the master diagram in the
+    chapter and relate it to your problem.
+17. Projection of Planes need not be studied for exams, it's not
+    included in the blueprint as you see.
+18. Projection of Solids is a very easy and important chapter. You
+    don't need to imagine/think what to draw. Points give you answer at
+    every step. Just make sure you project lines to the next stage
+    properly.
+19. Orthographic Projections is a compulsury question in the end
+    semester exam. It is easier than Isometric Projection. Moreover, the
+    question is easy in the exam and it's a great loss if you lose marks
+    because of this.
+20. Isometric Projections need imagination. If you find it really
+    difficult and are not able to get correct projections, do Development
+    of Surfaces nicely. See the blueprint and plan your study for the end
+    semester exam.
+21. In the AutoCAD internal exam, place your name plate text box near
+    to the drawing, not too far away. Take care it doesn't enter inside
+    your drawing or you may lose marks.
+22. 

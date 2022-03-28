@@ -1,0 +1,38 @@
+Tips | Structured Programming Approach
+
+
+
+Structured Programming Approach
+
+
+
+
+1. 1. You need tuitions if you don't have a good background in
+   programming.
+2. Understand the codes. Never memorize anything. The exact same
+   program may never come in the exam.
+3. Scoring in this subject is easy once you know the gyst C language
+   and how it works.
+4. This subject carsries 5 credits. Your pointer will be affected if
+   you don't score.
+5. Technical or TechMax both books are good according to exam point of
+   view.
+6. Buy reference books like 'Programming in C by Pradeep Dey and Manas
+   Ghosh' or 'Let Us C by '.
+7. You really need to score in this subject if you're from the
+   Computer Engineering stream. It'll be of much help in the coming
+   semesters in subjects like Data Structures and Object Oriented
+   Programming.
+8. There are many ways to write a code to solve a problem. You should
+   write the ones you feel easiest to understand and concise.
+9. Writing comments beside the code in each line is a good habit which
+   helps the corrector to understand your coding saving his time in
+   correcting and gives you marks.
+10. Marks get cut for silly mistake due to missing out a ' ; '
+    semicolon in the end of the line. So always give a glance at your
+    coding after writing.
+11. Those who opted for Computer Science as a Vocational Subject in
+    XI and XII Standards will find this subject easy for them.
+12. The only theory concept to learn in SPA is about the Storage
+    Class.
+13. 
