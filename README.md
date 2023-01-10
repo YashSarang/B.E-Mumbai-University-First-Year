@@ -10,6 +10,7 @@ find the Softcopies of the books on the links below
 Sem 1 books link - https://drive.google.com/drive/folders/1F9FHb6TWimmrP0vG15M9NHY-dAdkrnxj?usp=share_link
 
 Sem 2 books link - https://drive.google.com/drive/folders/1mG8sKg2WsMYp2Wk8wFb6lSQzeEffst4l?usp=share_link
+also Includes AutoCAD tutorials from Prof. Vijay Shejwalkar.
 
 -------
 
